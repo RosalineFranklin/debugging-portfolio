@@ -78,7 +78,7 @@ The goal of this portfolio is to demonstrate my ability to investigate issues, a
 Each project folder contains:
 - `buggy_code.c` or `.cpp` → original code with errors  
 - `fix_code.c` or `.cpp` → corrected version  
-- `debugging_notes.md` → detailed explanation of the debugging process  
+- `project scenario doc file` → detailed explanation of the scenario, buggy code, fixed code, lessons learned, and tools used
 
 ---
 
